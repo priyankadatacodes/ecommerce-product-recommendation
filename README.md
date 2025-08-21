@@ -12,3 +12,5 @@ The dataset includes user ratings, product details, categories, payment informat
 - Feature engineering including one-hot encoding of categorical features.
 - Building a user-item matrix and computing item-item cosine similarity.
 - Recommendation function to fetch top-N similar products.
+## Future Work
+Plan to Evaluation using precision@k and recall@k to assess recommendation quality and to implement hybrid recommendation models integrating content-based filtering and deep learning approaches for enhanced personalization.
